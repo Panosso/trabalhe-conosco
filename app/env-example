@@ -1,0 +1,12 @@
+#Token
+JWT_SECRET_KEY=myjwtsecret
+JWT_REFRESH_SECRET_KEY=myjwtrefreshsecret
+
+#Data base Postgre
+POSTGRES_USER=pguser
+POSTGRES_PASSWORD=pgpassword
+POSTGRES_HOST=pghostname
+POSTGRES_DATABASE=pgdatabasename
+
+#Api prefix
+API_V1_STR=/api/version/
